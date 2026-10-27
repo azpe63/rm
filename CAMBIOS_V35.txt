@@ -1,0 +1,1 @@
+V35: ancho fluido; figuras de capítulo 3 reducidas; Reso con ilustraciones variadas; primera IDEA revisada; laboratorio escalado y altura de iframe ajustada. Verificación automática de archivos y sintaxis, no prueba visual de navegador.

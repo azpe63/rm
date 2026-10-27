@@ -1,0 +1,804 @@
+{
+  "assertions": [
+    {
+      "name": "RF: every drawn line endpoint within canvas at 181 angles",
+      "pass": true,
+      "detail": {
+        "count": 543,
+        "minY": 20,
+        "maxY": 212
+      }
+    },
+    {
+      "name": "Continuous drag larmor/0",
+      "pass": true,
+      "detail": {
+        "same": true,
+        "min": 0.5,
+        "max": 3,
+        "value": 2.8
+      }
+    },
+    {
+      "name": "Keyboard Home larmor/0",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Keyboard End larmor/0",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Continuous drag rf/0",
+      "pass": true,
+      "detail": {
+        "same": true,
+        "min": 0,
+        "max": 180,
+        "value": 165
+      }
+    },
+    {
+      "name": "Keyboard Home rf/0",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Keyboard End rf/0",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Continuous drag relax/0",
+      "pass": true,
+      "detail": {
+        "same": true,
+        "min": 0,
+        "max": 2500,
+        "value": 2300
+      }
+    },
+    {
+      "name": "Keyboard Home relax/0",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Keyboard End relax/0",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Continuous drag relax/1",
+      "pass": true,
+      "detail": {
+        "same": true,
+        "min": 200,
+        "max": 1600,
+        "value": 1500
+      }
+    },
+    {
+      "name": "Keyboard Home relax/1",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Keyboard End relax/1",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Continuous drag relax/2",
+      "pass": true,
+      "detail": {
+        "same": true,
+        "min": 300,
+        "max": 2500,
+        "value": 2350
+      }
+    },
+    {
+      "name": "Keyboard Home relax/2",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Keyboard End relax/2",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Continuous drag contrast/0",
+      "pass": true,
+      "detail": {
+        "same": true,
+        "min": 200,
+        "max": 5000,
+        "value": 4600
+      }
+    },
+    {
+      "name": "Keyboard Home contrast/0",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Keyboard End contrast/0",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Continuous drag contrast/1",
+      "pass": true,
+      "detail": {
+        "same": true,
+        "min": 10,
+        "max": 160,
+        "value": 145
+      }
+    },
+    {
+      "name": "Keyboard Home contrast/1",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Keyboard End contrast/1",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Continuous drag quality/0",
+      "pass": true,
+      "detail": {
+        "same": true,
+        "min": 160,
+        "max": 400,
+        "value": 380
+      }
+    },
+    {
+      "name": "Keyboard Home quality/0",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Keyboard End quality/0",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Continuous drag quality/1",
+      "pass": true,
+      "detail": {
+        "same": true,
+        "min": 128,
+        "max": 512,
+        "value": 480
+      }
+    },
+    {
+      "name": "Keyboard Home quality/1",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Keyboard End quality/1",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Relaxation graph changes when only time changes",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Frame no horizontal overflow 320",
+      "pass": true,
+      "detail": {
+        "width": 266,
+        "sw": 266,
+        "h": 2134,
+        "sh": 2134,
+        "columns": "242px"
+      }
+    },
+    {
+      "name": "Frame no nested vertical scroll 320",
+      "pass": true,
+      "detail": {
+        "width": 266,
+        "sw": 266,
+        "h": 2134,
+        "sh": 2134,
+        "columns": "242px"
+      }
+    },
+    {
+      "name": "Chapter 3 correct navigation 320",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Welcome top accessible 320",
+      "pass": true,
+      "detail": {
+        "x": 24,
+        "y": 24,
+        "width": 272,
+        "height": 939.3125
+      }
+    },
+    {
+      "name": "Welcome closes 320",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Frame no horizontal overflow 375",
+      "pass": true,
+      "detail": {
+        "width": 321,
+        "sw": 321,
+        "h": 1798,
+        "sh": 1798,
+        "columns": "297px"
+      }
+    },
+    {
+      "name": "Frame no nested vertical scroll 375",
+      "pass": true,
+      "detail": {
+        "width": 321,
+        "sw": 321,
+        "h": 1798,
+        "sh": 1798,
+        "columns": "297px"
+      }
+    },
+    {
+      "name": "Chapter 3 correct navigation 375",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Welcome top accessible 375",
+      "pass": true,
+      "detail": {
+        "x": 24,
+        "y": 24,
+        "width": 327,
+        "height": 798.9375
+      }
+    },
+    {
+      "name": "Welcome closes 375",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Frame no horizontal overflow 768",
+      "pass": true,
+      "detail": {
+        "width": 668,
+        "sw": 668,
+        "h": 1529,
+        "sh": 1529,
+        "columns": "644px"
+      }
+    },
+    {
+      "name": "Frame no nested vertical scroll 768",
+      "pass": true,
+      "detail": {
+        "width": 668,
+        "sw": 668,
+        "h": 1529,
+        "sh": 1529,
+        "columns": "644px"
+      }
+    },
+    {
+      "name": "Chapter 3 correct navigation 768",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Welcome top accessible 768",
+      "pass": true,
+      "detail": {
+        "x": 24,
+        "y": 192.265625,
+        "width": 720,
+        "height": 515.453125
+      }
+    },
+    {
+      "name": "Welcome closes 768",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Frame no horizontal overflow 1024",
+      "pass": true,
+      "detail": {
+        "width": 704,
+        "sw": 704,
+        "h": 1484,
+        "sh": 1484,
+        "columns": "680px"
+      }
+    },
+    {
+      "name": "Frame no nested vertical scroll 1024",
+      "pass": true,
+      "detail": {
+        "width": 704,
+        "sw": 704,
+        "h": 1484,
+        "sh": 1484,
+        "columns": "680px"
+      }
+    },
+    {
+      "name": "Chapter 3 correct navigation 1024",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Welcome top accessible 1024",
+      "pass": true,
+      "detail": {
+        "x": 27,
+        "y": 222.859375,
+        "width": 970,
+        "height": 454.265625
+      }
+    },
+    {
+      "name": "Welcome closes 1024",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Frame no horizontal overflow 1366",
+      "pass": true,
+      "detail": {
+        "width": 1020,
+        "sw": 1020,
+        "h": 881,
+        "sh": 881,
+        "columns": "505.047px 450.953px"
+      }
+    },
+    {
+      "name": "Frame no nested vertical scroll 1366",
+      "pass": true,
+      "detail": {
+        "width": 1020,
+        "sw": 1020,
+        "h": 881,
+        "sh": 881,
+        "columns": "505.047px 450.953px"
+      }
+    },
+    {
+      "name": "Side by side at 1366",
+      "pass": true,
+      "detail": {
+        "width": 1020,
+        "sw": 1020,
+        "h": 881,
+        "sh": 881,
+        "columns": "505.047px 450.953px"
+      }
+    },
+    {
+      "name": "Chapter 3 correct navigation 1366",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Welcome top accessible 1366",
+      "pass": true,
+      "detail": {
+        "x": 198,
+        "y": 222.859375,
+        "width": 970,
+        "height": 454.265625
+      }
+    },
+    {
+      "name": "Welcome closes 1366",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Frame no horizontal overflow 1920",
+      "pass": true,
+      "detail": {
+        "width": 1350,
+        "sw": 1350,
+        "h": 857,
+        "sh": 857,
+        "columns": "679.391px 606.609px"
+      }
+    },
+    {
+      "name": "Frame no nested vertical scroll 1920",
+      "pass": true,
+      "detail": {
+        "width": 1350,
+        "sw": 1350,
+        "h": 857,
+        "sh": 857,
+        "columns": "679.391px 606.609px"
+      }
+    },
+    {
+      "name": "Side by side at 1920",
+      "pass": true,
+      "detail": {
+        "width": 1350,
+        "sw": 1350,
+        "h": 857,
+        "sh": 857,
+        "columns": "679.391px 606.609px"
+      }
+    },
+    {
+      "name": "Chapter 3 correct navigation 1920",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Welcome top accessible 1920",
+      "pass": true,
+      "detail": {
+        "x": 475,
+        "y": 312.859375,
+        "width": 970,
+        "height": 454.265625
+      }
+    },
+    {
+      "name": "Welcome closes 1920",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Blocked storage: continue to chapter 2",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Blocked storage: in-memory progress retained",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Original question banks and teaching DATA unchanged",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Chapter 1 visible teaching text unchanged",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Chapter 1 initial main content screenshot identical",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Chapter 2 visible teaching text unchanged",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Chapter 2 initial main content screenshot identical",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Chapter 3 visible teaching text unchanged",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Chapter 4 visible teaching text unchanged",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Chapter 4 initial main content screenshot identical",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Chapter 5 visible teaching text unchanged",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Chapter 5 initial main content screenshot identical",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Chapter 6 visible teaching text unchanged",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Chapter 6 initial main content screenshot identical",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Chapter 7 visible teaching text unchanged",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Chapter 7 initial main content screenshot identical",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Chapter 8 visible teaching text unchanged",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Chapter 8 initial main content screenshot identical",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Chapter 9 visible teaching text unchanged",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Chapter 9 initial main content screenshot identical",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Chapter 10 visible teaching text unchanged",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Chapter 10 initial main content screenshot identical",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Chapter 11 visible teaching text unchanged",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Chapter 11 initial main content screenshot identical",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "No external requests",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "No browser JS errors",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "No missing requested resources",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "Only two application HTML files changed",
+      "pass": true,
+      "detail": [
+        "Laboratorio_RM_Espines_RF.html",
+        "index.html"
+      ]
+    },
+    {
+      "name": "V36 extracted backup still identical",
+      "pass": true,
+      "detail": null
+    }
+  ],
+  "drags": [
+    {
+      "lab": "larmor",
+      "control": 0,
+      "same": true,
+      "min": 0.5,
+      "max": 3,
+      "value": 2.8
+    },
+    {
+      "lab": "rf",
+      "control": 0,
+      "same": true,
+      "min": 0,
+      "max": 180,
+      "value": 165
+    },
+    {
+      "lab": "relax",
+      "control": 0,
+      "same": true,
+      "min": 0,
+      "max": 2500,
+      "value": 2300
+    },
+    {
+      "lab": "relax",
+      "control": 1,
+      "same": true,
+      "min": 200,
+      "max": 1600,
+      "value": 1500
+    },
+    {
+      "lab": "relax",
+      "control": 2,
+      "same": true,
+      "min": 300,
+      "max": 2500,
+      "value": 2350
+    },
+    {
+      "lab": "contrast",
+      "control": 0,
+      "same": true,
+      "min": 200,
+      "max": 5000,
+      "value": 4600
+    },
+    {
+      "lab": "contrast",
+      "control": 1,
+      "same": true,
+      "min": 10,
+      "max": 160,
+      "value": 145
+    },
+    {
+      "lab": "quality",
+      "control": 0,
+      "same": true,
+      "min": 160,
+      "max": 400,
+      "value": 380
+    },
+    {
+      "lab": "quality",
+      "control": 1,
+      "same": true,
+      "min": 128,
+      "max": 512,
+      "value": 480
+    }
+  ],
+  "geometry": [
+    {
+      "outer": 320,
+      "width": 266,
+      "sw": 266,
+      "h": 2134,
+      "sh": 2134,
+      "columns": "242px"
+    },
+    {
+      "outer": 375,
+      "width": 321,
+      "sw": 321,
+      "h": 1798,
+      "sh": 1798,
+      "columns": "297px"
+    },
+    {
+      "outer": 768,
+      "width": 668,
+      "sw": 668,
+      "h": 1529,
+      "sh": 1529,
+      "columns": "644px"
+    },
+    {
+      "outer": 1024,
+      "width": 704,
+      "sw": 704,
+      "h": 1484,
+      "sh": 1484,
+      "columns": "680px"
+    },
+    {
+      "outer": 1366,
+      "width": 1020,
+      "sw": 1020,
+      "h": 881,
+      "sh": 881,
+      "columns": "505.047px 450.953px"
+    },
+    {
+      "outer": 1920,
+      "width": 1350,
+      "sw": 1350,
+      "h": 857,
+      "sh": 857,
+      "columns": "679.391px 606.609px"
+    }
+  ],
+  "chapterComparisons": [
+    {
+      "chapter": 1,
+      "sameText": true,
+      "sameInitialMainScreenshot": true
+    },
+    {
+      "chapter": 2,
+      "sameText": true,
+      "sameInitialMainScreenshot": true
+    },
+    {
+      "chapter": 3,
+      "sameText": true,
+      "sameInitialMainScreenshot": true
+    },
+    {
+      "chapter": 4,
+      "sameText": true,
+      "sameInitialMainScreenshot": true
+    },
+    {
+      "chapter": 5,
+      "sameText": true,
+      "sameInitialMainScreenshot": true
+    },
+    {
+      "chapter": 6,
+      "sameText": true,
+      "sameInitialMainScreenshot": true
+    },
+    {
+      "chapter": 7,
+      "sameText": true,
+      "sameInitialMainScreenshot": true
+    },
+    {
+      "chapter": 8,
+      "sameText": true,
+      "sameInitialMainScreenshot": true
+    },
+    {
+      "chapter": 9,
+      "sameText": true,
+      "sameInitialMainScreenshot": true
+    },
+    {
+      "chapter": 10,
+      "sameText": true,
+      "sameInitialMainScreenshot": true
+    },
+    {
+      "chapter": 11,
+      "sameText": true,
+      "sameInitialMainScreenshot": true
+    }
+  ],
+  "errors": [],
+  "external": [],
+  "failed": []
+}

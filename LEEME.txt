@@ -1,0 +1,1 @@
+V19: portada compacta y capítulo 2 reescrito y ampliado con esquemas SVG, laboratorio de Larmor y autoevaluación. El resto del curso parte de V18 sin cambios. Abrir index.html en navegador.

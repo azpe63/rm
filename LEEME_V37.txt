@@ -1,0 +1,19 @@
+V37 — Estabilización técnica
+
+Extraer completamente el ZIP. Conservar index.html, Laboratorio_RM_Espines_RF.html,
+portada.png y la carpeta imagenes en su estructura original.
+
+Modo previsto: abrir index.html en un navegador moderno.
+La apertura directa desde disco (file://) sigue pendiente de comprobación real:
+el navegador administrado del entorno de pruebas bloquea ese protocolo.
+Los recorridos descritos en INFORME_V37.md se comprobaron en Chromium mediante
+un servidor local, con peticiones externas bloqueadas y sin recursos de Internet.
+
+Alternativa local, si Python ya está instalado:
+  python -m http.server 8000 --bind 127.0.0.1
+Ejecutarlo desde esta carpeta y abrir el índice en el navegador local en el puerto 8000.
+Detener el servidor con Ctrl+C al terminar. No requiere paquetes adicionales.
+
+No se han modificado los contenidos científicos, las preguntas ni las imágenes.
+Las correcciones y los límites de la validación se detallan en INFORME_V37.md.
+La V36 original se conserva por separado como RM36_respaldo.zip.

@@ -1,0 +1,1 @@
+V36: ampliación del resumen Lo que ya sabemos de RM; capítulo 3 a ancho disponible; pies de figura; explicación RF y coherencia; Reso en feedback de test; laboratorio con disposición lateral y ajustes de tamaño. Pendiente de verificación visual en navegador.

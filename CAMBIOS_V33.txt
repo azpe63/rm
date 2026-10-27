@@ -1,0 +1,1 @@
+V33: Eliminado el bloque de demostración «Reso en la autoevaluación · demostración» que aparecía al final del capítulo 1. Se conserva el recuadro «Recuerda con Reso» y la autoevaluación real. Resto de la V32 sin cambios.
